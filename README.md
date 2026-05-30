@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Tanishq Morayya 👋
 
-<!--
-**TanishqMorayya/TanishqMorayya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering Student at Ramdeobaba University, Nagpur
 
-Here are some ideas to get you started:
+💻 Currently Learning
+- Java
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Current Goals
+- Master Java OOPs
+- Solve DSA Problems Consistently
+- Build Strong Development Projects
+- Prepare for Internships and Placements
+
+⭐ Interests
+- Software Development
+- Problem Solving
+- Mobile App Development
